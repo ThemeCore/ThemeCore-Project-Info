@@ -1,0 +1,26 @@
+/** 
+  * ThemeCore Project Info MonoRepo
+  * vsCode Workspace Configuration File
+  */
+{
+    "folders": [
+        {
+            "name": "ThemeCore Project Info",
+            "path": "."
+        },
+        { "path": "Assets"},
+        { "path": "Branding"},
+        { "path": "Forking-Around"}
+    ],
+    "extensions": {
+        "recommendations": []
+    },
+    "launch": {
+        "version": "0.2.0",
+        "configurations": [],
+        "compounds": []
+    },
+    "settings": {
+        "editor.fontSize": 14
+    }
+}
