@@ -8,9 +8,10 @@
             "name": "ThemeCore Project Info",
             "path": "."
         },
-        { "path": "Assets"},
-        { "path": "Branding"},
-        { "path": "Forking-Around"}
+        { "path": "Assets" },
+        { "path": "Branding" },
+        { "path": "Forking-Around" },
+        { "path": "Templates" }
     ],
     "extensions": {
         "recommendations": []
