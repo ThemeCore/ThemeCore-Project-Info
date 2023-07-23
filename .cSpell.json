@@ -1,0 +1,14 @@
+// cSpell settings for this repository.
+{
+    // Use most recent cSpell json schema.
+    "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
+
+    // Current version of this setting file.
+    // Do Not Change!
+    "version": "0.2",
+
+    // This is the main language for this repository
+    "language": "en"
+
+
+}
