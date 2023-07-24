@@ -5,3 +5,9 @@
 ### <p align="center">Contributing To ThemeCore Trademarks and Branding</p>
 
 ---
+
+
+
+
+---
+<p align="center" style="font-size: 11px;"> Copyright ©2022-Present: <a href="https://rltechs.com">RL Technologies, LLC</a>, <a href="https://themecore.org">ThemeCore</a> and the <a href="mailto:codeteam@themecore.org">ThemeCore Development Code Team</a>. All Rights Reserved. </p>
