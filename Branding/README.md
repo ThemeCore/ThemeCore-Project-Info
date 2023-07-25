@@ -7,7 +7,7 @@
 
 ---
 
- #### While different parts of the ThemeCore project are covered by various approved open source licenses, our logos, icons, miscellaneous graphics, and other media are not. These files are considered commercial and proprietary in nature with respect to the ThemeCore project, fo protection of the ThemeCore brand.
+ #### While different parts of the ThemeCore project are covered by various approved open source licenses, our logos, icons, miscellaneous graphics, and other media are not. These files are [licensed as](./LICENSE.md) and considered commercial and proprietary in nature with respect to the ThemeCore project, for protection of the ThemeCore brand.
  
  #### As such, these forms of media have specific guidelines for both usage and reproduction. Any changes to the branding or policies of use for the branding will always be updated here in this repository as well as on the [ThemeCore](https://themecore.org/legal/) website.
  
@@ -15,25 +15,25 @@
 
 ---
 
-#### Why are these items trademarked and not open source like the rest of the project?
+### Why are these items trademarked and not open source like the rest of the project?
 
 ThemeCore was conceived, and is being actively developed as a brand for a complete WordPress theme and plugin development solution. As such, the images, color palettes, layouts, etc for the brand were trademarked to provide consistency and recognizability in the representation of the brand. In addition, this provides continued protection of the ThemeCore brand, helping to ensure its reputation in the community in perpetuity. Much like WordPress itself, ThemeCore is meant to be a development solution that will stand the test of time.
 
-#### Can I use the ThemeCore branding in my projects?
+### Can I use the ThemeCore branding in my projects?
 
 Yes, and no. It all depends on how and why you wish to use the branding. We have developed a '[Branding Usage Policy](./BRAND_USEAGE.md)' to help you decide wether or not using the ThemeCore branding is acceptable for your project, website, or anywhere else you wish to use ThemeCore's branding. If you are unsure about anything contained in the policy guidelines, you can always send us an email at <branding@themecore.org>.
 
-#### Do you accept ideas or contributions to the branding?
+### Do you accept ideas or contributions to the branding?
 
-Yes, however since the branding is trademarked, there are special requirements and terms of use for branding submissions and contributions. To find out exactly what is required you can read up on the requirements and expectations in our '[Contribution Policy](./CONTRIBUTING.md)', and our '[Submission Policy](./SUBMISSION.md)'. If you find the terms and requirements in the policies are acceptable, we would love to have you on board with our team. 
+Yes, however since the branding is trademarked, there are special requirements and terms of use for branding submissions and contributions. To find out exactly what is required you can read up on the requirements and expectations in our '[Contribution Policy](./CONTRIBUTING.md)', and our '[Submission Policy](./SUBMISSION.md)'. If you find the terms and requirements in the policies are acceptable, we would love to have you on board our graphics team. 
 
-#### If it's all trademarked, why bother with master files and a branding section?
+### If it's all trademarked, why bother with master files and a branding section?
 
 Because, in the spirit of open source, we feel all the files for the ThemeCore project should be made available to the community at large. It also provides us with a central point to keep the files available for those who wish to use them as a learning tool, as well as a place to store revisions so those in the future will know how it all started and evolved. Besides, none of us live forever. So,  by providing the assets we help ensure the relevancy and perpetuity of ThemeCore.
 
 ---
 
-#### Recommended Reading...
+### Recommended Reading...
 
 - [Trademark and Branding Usage Policy](./BRAND_USEAGE.md)
 - [Trademark and Branding Contribution Policy](./CONTRIBUTING.md)
@@ -42,7 +42,7 @@ Because, in the spirit of open source, we feel all the files for the ThemeCore p
 
 ---
 
-#### Recommended Software For Contributing To ThemeCore Branding...
+### Recommended Software For Contributing To ThemeCore Branding...
 
 - [Adobe After Effects](https://www.adobe.com/products/aftereffects)
 - [Adobe Illustrator](https://www.adobe.com/products/illustrator)
@@ -56,7 +56,12 @@ Because, in the spirit of open source, we feel all the files for the ThemeCore p
 
 ---
 
-#### ThemeCore Artwork and Graphics Contributors...
+### License...
+The ThemeCore Branding files are Commercially Licensed. Please see the [license file](./LICENSE.md).
+
+---
+
+### ThemeCore Artwork and Graphics Contributors...
 
 <a href="https://github.com/ThemeCore/Graphics/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ThemeCore/Graphics" />
