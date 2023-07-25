@@ -1,0 +1,5 @@
+# This file is a cSpell Custom Dictionary File for this ThemeCore repository.
+# WARNING: This file will alphabetize itself as new words are added.
+!Themecore
+themecore
+ThemeCore
