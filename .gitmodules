@@ -1,0 +1,4 @@
+
+[submodule "Forking-Around/Mandatory-Forking/wordpress-develop"]
+	path = Forking-Around/Mandatory-Forking/wordpress-develop
+	url = https://github.com/WordPress/wordpress-develop.git
