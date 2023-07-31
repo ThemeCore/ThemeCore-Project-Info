@@ -1,7 +1,13 @@
 <style>
-    table {
-        width: 100%;
-    }
+.forkList {
+    width: 98%;
+    display: inline-block;
+    text-align: center;
+    font-size: 18px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
 </style>
 <p align="center">TC LOGO IMG HERE!</p>
 
@@ -17,8 +23,13 @@
 ## <p align="center">Mandatory Repositories</p>
 
 <br>
-
-:small_blue_diamond:&nbsp;&nbsp; [WordPress](https://github.com/WordPress)/[Wordpress-Develop](https://github.com/WordPress/wordprress-develop) &nbsp;&nbsp;:small_blue_diamond:&nbsp;&nbsp; [WordPress](https://github.com/WordPress)/[Gutenberg](https://github.com/WordPress/gutenberg) &nbsp;&nbsp;:small_blue_diamond:&nbsp;&nbsp; [WordPress](https://github.com/WordPress)/[WordPress](https://github.com/WordPress/WordPress) &nbsp;&nbsp;:small_blue_diamond:&nbsp;&nbsp;
-
+<div class="forkList">
+✭&nbsp;<a href="https://github.com/WordPress/gutenberg" target="">&nbsp;WordPress/Gutenberg </a>&nbsp;
+✭&nbsp;<a href="https://github.com/WordPress/gutenberg" target="">&nbsp;WordPress/Gutenberg </a>&nbsp;
+✭&nbsp;<a href="https://github.com/WordPress/WordPress" target="">WordPress/WordPress</a>&nbsp;
+✭&nbsp;<a href="https://github.com/WordPress/WordPress-Develop" target="">WordPress/WordPress-Develop</a>&nbsp;
+✭
+</div>
+            
 ---
 <p align="center" style="font-size: 11px;"> Copyright ©2022-Present: <a href="https://rltechs.com">RL Technologies, LLC</a>, <a href="https://themecore.org">ThemeCore</a> and the <a href="mailto:codeteam@themecore.org">ThemeCore Development Code Team</a>. All Rights Reserved. </p>
