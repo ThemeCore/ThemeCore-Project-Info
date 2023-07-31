@@ -6,7 +6,7 @@
 
 ---
 
-#### Below is a list of companies, projects, and other wonderful things that without which, the ThemeCore project would not ever have become an idea without. So a huge 'Thank You' is in order for the inspiration.  :metal: :sunglasses:
+#### Below is a list of companies, projects, and other wonderful things that without which, the ThemeCore project would not ever have become an idea without. So a huge 'Thank You' is in order for the inspiration, as well as for all the hard work, long hours and dedication to the open source community by the owners and contributors of these projects, as well as to those who kept their coffee flowing. :coffee: :metal: :sunglasses:
 
 
 ## <p align="center">Mandatory Repositories</p>
