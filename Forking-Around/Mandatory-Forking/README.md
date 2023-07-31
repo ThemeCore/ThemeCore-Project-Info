@@ -17,18 +17,18 @@
 
 ---
 
-#### Below is a list of companies, projects, and other wonderful things that without which, the ThemeCore project would not ever have become an idea. So a huge 'Thank You' is in order for the inspiration.  :metal: :sunglasses:
+#### Below is a list of companies, projects, and other wonderful things that without which, the ThemeCore project would not ever have become an idea without. So a huge 'Thank You' is in order for the inspiration.  :metal: :sunglasses:
 
 
 ## <p align="center">Mandatory Repositories</p>
 
 <br>
 <div class="forkList">
-✭&nbsp;<a href="https://github.com/WordPress/gutenberg" target="">&nbsp;WordPress/Gutenberg </a>&nbsp;
-✭&nbsp;<a href="https://github.com/WordPress/gutenberg" target="">&nbsp;WordPress/Gutenberg </a>&nbsp;
-✭&nbsp;<a href="https://github.com/WordPress/WordPress" target="">WordPress/WordPress</a>&nbsp;
-✭&nbsp;<a href="https://github.com/WordPress/WordPress-Develop" target="">WordPress/WordPress-Develop</a>&nbsp;
-✭
+&nbsp;<a href="https://github.com/woocommerce/woocommerce" target="">&nbsp;WooCommerce/WooCommerce&nbsp;</a>&nbsp;
+&nbsp;<a href="https://github.com/woocommerce/woocommerce-blocks" target="">&nbsp;WooCommerce/WooCommerce-Blocks&nbsp;</a>&nbsp;
+&nbsp;<a href="https://github.com/WordPress/gutenberg" target="">&nbsp;WordPress/Gutenberg&nbsp;</a>&nbsp;
+&nbsp;<a href="https://github.com/WordPress/WordPress" target="">&nbsp;WordPress/WordPress&nbsp;</a>&nbsp;
+&nbsp;<a href="https://github.com/WordPress/WordPress-Develop" target="">&nbsp;WordPress/WordPress-Develop&nbsp;</a>&nbsp;
 </div>
             
 ---
