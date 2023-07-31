@@ -12,12 +12,14 @@
 ## <p align="center">Mandatory Repositories</p>
 
 <br>
-<div style="width: 98%; display: inline-block; text-align: center; font-size: 18px; font-weight: bold; margin-right: auto; margin-left: auto;">
+<div style="width: 98%; display: inline-block; font-size: 18px; font-weight: bold; margin-right: auto; margin-left: auto;">
+<center>
 &nbsp;<a href="https://github.com/woocommerce/woocommerce" target="">&nbsp;WooCommerce/WooCommerce&nbsp;</a>&nbsp;
 &nbsp;<a href="https://github.com/woocommerce/woocommerce-blocks" target="">&nbsp;WooCommerce/WooCommerce-Blocks&nbsp;</a>&nbsp;
 &nbsp;<a href="https://github.com/WordPress/gutenberg" target="">&nbsp;WordPress/Gutenberg&nbsp;</a>&nbsp;
 &nbsp;<a href="https://github.com/WordPress/WordPress" target="">&nbsp;WordPress/WordPress&nbsp;</a>&nbsp;
 &nbsp;<a href="https://github.com/WordPress/WordPress-Develop" target="">&nbsp;WordPress/WordPress-Develop&nbsp;</a>&nbsp;
+</center>
 </div>
             
 ---
