@@ -1,6 +1,6 @@
 <p align="center">TC LOGO IMG HERE!</p>
 
-<p align="center"><span style="font-size: 28px; font-weight: 600;">Just Forking Around - Mandatory Forking</span></p>
+<p align="center" style="font-size: 28px; font-weight: 600;">Just Forking Around - Mandatory Forking</p>
 
 ##### <p align="center">Revision: June 2023</p>
 ### <p align="center"></p>
