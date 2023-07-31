@@ -13,7 +13,7 @@
 
 <br>
 <div style="width: 98%; display: inline-block; font-size: 18px; font-weight: bold; margin-right: auto; margin-left: auto;">
-<center>
+<p align="center">
 &nbsp;<a href="https://github.com/woocommerce/woocommerce" target="">&nbsp;WooCommerce/WooCommerce&nbsp;</a>&nbsp;
 &nbsp;<a href="https://github.com/woocommerce/woocommerce-blocks" target="">&nbsp;WooCommerce/WooCommerce-Blocks&nbsp;</a>&nbsp;
 &nbsp;<a href="https://github.com/WordPress/gutenberg" target="">&nbsp;WordPress/Gutenberg&nbsp;</a>&nbsp;
