@@ -18,11 +18,12 @@ text...
 
 - [GNU General Public License, Version 2.0](../Project-Licenses/license.gplv2.md)
 - [GNU General Public License, Version 3.0](../Project-Licenses/license.gplv3.md)
+- [The MIT License (MIT)](../Project-Licenses/license.mit.md)
 - [Mozilla Public License, Version 2.0](../Project-Licenses/license.mplv2.md)
 
 ## Mandatory Repositories
 
-*These are the repositories ThemeCore would not exist without...*<br>
+*These are the project repositories, without which, ThemeCore would not exist.*<br>
 
 <br>
 
@@ -32,11 +33,14 @@ Project Repository | Project License Type | Homepage URL
 | [WooCommerce](https://github.com/woocommerce/woocommerce) | GNU General Public License v3.0 | [WooCommerce.com](https://woocommerce.com/)|
 | [WooCommerce Blocks](https://github.com/woocommerce/woocommerce-blocks) | GNU General Public License v3.0 | [WordPress Plugins<br>Repository](https://wordpress.org/plugins/woo-gutenberg-products-block/) |
 | [WordPress](https://github.com/WordPress/WordPress) | GNU General Public License v2.0 | [WordPress.org](https://wordpress.org) |
+| [WordPress Coding Standards](https://github.com/WordPress/WordPress-Coding-Standards) | The MIT License (MIT) | [WP Coding Standards](https://github.com/WordPress/WordPress-Coding-Standards) |
+| [WordPress Coding Standards Docs](https://github.com/WordPress/wpcs-docs) | GNU General Public License v2.0 | [WP Coding Standards Docs](https://developer.wordpress.org/coding-standards/) |
 | [WordPress Development Version ]() | GNU General Public License v2.0 | [Make WordPress](https://make.wordpress.org/) |
 | []() |   | []() |
-| []() |   | []() |
-| []() |   | []() |
-| []() |   | []() |
+
+## Copyrights, Trademarks, Etc.
+
+text here
 
 ---
 ###### Copyright ©2022-Present: <a href="https://rltechsllc.com">RL Technologies, LLC</a>, <a href="https://themecore.org">ThemeCore</a> and the <a href="mailto:codeteam@themecore.org">ThemeCore Development Code Team</a>. All Rights Reserved.
