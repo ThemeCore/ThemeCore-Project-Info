@@ -43,6 +43,6 @@ Project Repository | Project License Type | Homepage URL
 text here
 
 ---
-###### Copyright ©2022-Present: <a href="https://rltechsllc.com">RL Technologies, LLC</a>, <a href="https://themecore.org">ThemeCore</a> and the <a href="mailto:codeteam@themecore.org">ThemeCore Development Code Team</a>. All Rights Reserved.
+###### Copyright ©2022-2023: <a href="https://themecore.org">ThemeCore</a> and the <a href="mailto:codeteam@themecore.org">ThemeCore Development Code Team</a>. All Rights Reserved.
 
 <!-- END THEMECORE MANDATORY FORKING README.MD BLOCK -->
