@@ -1,6 +1,6 @@
 # The MIT License (MIT)
 
-Copyright ©2023-Present Erik Roth, RL Technologies LLC, ThemeCore, and The ThemeCore Team
+Copyright ©2022-2023 ThemeCore, and The ThemeCore Development Code Team.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in

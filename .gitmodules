@@ -8,3 +8,15 @@
 [submodule "Forking-Around/Mandatory-Forking/gutenberg"]
 	path = Forking-Around/Mandatory-Forking/gutenberg
 	url = https://github.com/WordPress/gutenberg.git
+[submodule "Forking-Around/Mandatory-Forking/woocommerce"]
+	path = Forking-Around/Mandatory-Forking/woocommerce
+	url = https://github.com/woocommerce/woocommerce.git
+[submodule "Forking-Around/Mandatory-Forking/woocommerce-blocks"]
+	path = Forking-Around/Mandatory-Forking/woocommerce-blocks
+	url = https://github.com/woocommerce/woocommerce-blocks.git
+[submodule "Forking-Around/Mandatory-Forking/wordpress-coding-standards"]
+	path = Forking-Around/Mandatory-Forking/wordpress-coding-standards
+	url = https://github.com/WordPress/WordPress-Coding-Standards.git
+[submodule "Forking-Around/Mandatory-Forking/wpcs-docs"]
+	path = Forking-Around/Mandatory-Forking/wpcs-docs
+	url = https://github.com/WordPress/wpcs-docs.git
